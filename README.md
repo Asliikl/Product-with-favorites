@@ -1,6 +1,6 @@
 # Product Carousel with Favorites
 
-This project implements a product carousel for the LC Waikiki website's product pages. The carousel dynamically displays a list of products with the title **"You Might Also Like"** and allows users to interact with it using arrow buttons, clicking to view product pages, and favoriting products.
+This project implements a product carousel for the website's product pages. The carousel dynamically displays a list of products with the title **"You Might Also Like"** and allows users to interact with it using arrow buttons, clicking to view product pages, and favoriting products.
 
 ## Features
 
