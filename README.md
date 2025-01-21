@@ -1,4 +1,4 @@
-# LCW Product Carousel
+# Product Carousel with Favorites
 
 This project implements a product carousel for the LC Waikiki website's product pages. The carousel dynamically displays a list of products with the title **"You Might Also Like"** and allows users to interact with it using arrow buttons, clicking to view product pages, and favoriting products.
 
@@ -15,6 +15,5 @@ This project implements a product carousel for the LC Waikiki website's product 
 - **Responsive Design**: The carousel is responsive and adjusts according to the screen size (desktop, tablet, and mobile).
 - **Fetch Request**: The code initially fetches products from the URL, but on subsequent reloads, it uses the local storage data to avoid unnecessary network calls.
 
-![Image](img/web.png)
 
 
